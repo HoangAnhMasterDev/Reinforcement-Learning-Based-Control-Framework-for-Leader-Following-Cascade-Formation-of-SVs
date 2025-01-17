@@ -5,6 +5,6 @@ This simulation is designed to verify the effectiveness of our proposed method "
 adaptive integral sliding mode control and disturbance observer](https://www.sciencedirect.com/science/article/abs/pii/S0019057818305421)
 
 # Method 
-<img src="HTTP://imgur.com/Ch99wa9">
+![Control strategy diagram](https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/Control%20strategy.jpg?raw=true)
 
 
