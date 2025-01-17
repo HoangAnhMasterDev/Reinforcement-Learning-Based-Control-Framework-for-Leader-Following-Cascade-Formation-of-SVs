@@ -26,6 +26,13 @@ Subsequently, the following pictures depict the comparison of the control input 
   <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/tau_RL.jpg?raw=true" alt="RL" width="320"/>
 </div>
 
+Then, we have the tracking error performance in the x-axis, y-axis, and yaw angle, respectively of SV 4. It is observable that our control strategy is the only method that can guarantee the prescribed performance:
+
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/trackingError_x.jpg?raw=true" alt="AISMC" width="330"/>
+  <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/trackingError_y.jpg?raw=true" alt="FXESO" width="330"/>
+  <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/trackingError_psi.jpg?raw=true" alt="RL" width="320"/>
+</div>
 
 
 
