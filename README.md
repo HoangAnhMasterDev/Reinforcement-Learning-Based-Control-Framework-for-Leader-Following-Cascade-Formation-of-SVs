@@ -18,11 +18,10 @@ To begin with, we have the trajectory of all five SVs achieving the target forma
 <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/FormationTrajectory.jpg?raw=true" alt="Description" width="700" height="650">
 </div>
 
-Subsequently, the following pictures depict the comparison of the control input in the x-axis, y-axis, and yaw angle of SV 4, from three different control schemes:
+Subsequently, the following pictures depict the comparison of the control input in the x-axis, y-axis, and yaw angle of SV 4, from three different control schemes (AISMC, FXESO, and RL, respectively):
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/tau_AISMC.jpg?raw=true" alt="AISMC" width="330"/>
-  <p><b>Figure 1:</b> AISMC</p>
   <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/tau_FXESO.jpg?raw=true" alt="FXESO" width="330"/>
   <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/tau_RL.jpg?raw=true" alt="RL" width="320"/>
 </div>
