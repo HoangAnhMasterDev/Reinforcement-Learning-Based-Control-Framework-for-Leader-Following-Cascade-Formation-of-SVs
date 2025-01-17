@@ -13,6 +13,9 @@ This is a cascade control scheme with two loops:
 # Result
 ![targetFormation](https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/FormationTrajectory.jpg?raw=true)
 
+<img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/FormationTrajectory.jpg?raw=true" alt="Description" width="300" height="200">
+
+
 
 
 
