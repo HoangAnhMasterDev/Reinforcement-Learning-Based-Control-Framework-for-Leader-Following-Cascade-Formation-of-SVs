@@ -22,6 +22,7 @@ Subsequently, the following pictures depict the comparison of the control input 
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/tau_AISMC.jpg?raw=true" alt="AISMC" width="330"/>
+  <p><b>Figure 1:</b> AISMC</p>
   <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/tau_FXESO.jpg?raw=true" alt="FXESO" width="330"/>
   <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/tau_RL.jpg?raw=true" alt="RL" width="320"/>
 </div>
