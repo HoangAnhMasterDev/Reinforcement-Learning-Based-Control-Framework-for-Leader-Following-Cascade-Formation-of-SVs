@@ -34,12 +34,15 @@ Then, we have the tracking error performance in the x-axis, y-axis, and yaw angl
   <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/trackingError_psi.jpg?raw=true" alt="RL" width="320"/>
 </div>
 
-Finally, we present the evolution of both Actor & Critic training weights:
+Finally, we present the evolution of both Actor & Critic training weights of SV 4:
 
 <div style="display: flex; justify-content: space-around;">
   <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/Wa4.jpg?raw=true" alt="AISMC" width="490"/>
   <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/Wc4.jpg?raw=true" alt="FXESO" width="490"/>
 </div>
+
+It should be noted that we only show the results collected from SV 4 because the results of each SV are similar to those of other SVs. 
+
 
 
 
