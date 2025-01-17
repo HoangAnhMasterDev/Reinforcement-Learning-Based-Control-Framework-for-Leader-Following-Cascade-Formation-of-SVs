@@ -3,7 +3,6 @@ This simulation is designed to verify the effectiveness of our proposed method "
 1. [Fixed-time extended state observer-based trajectory tracking and point stabilization control for marine surface vessels with uncertainties and disturbances](https://www.sciencedirect.com/science/article/abs/pii/S0029801819302938)
 2. [An enhanced tracking control of marine surface vessels based on
 adaptive integral sliding mode control and disturbance observer](https://www.sciencedirect.com/science/article/abs/pii/S0019057818305421)
-3. [Tracking control of uncertain surface vessels with global finite-time convergence](https://www.sciencedirect.com/science/article/abs/pii/S0029801821013147?via%3Dihub)
 
 # Method 
-![Method](URL hoặc đường dẫn tới ảnh)
+![Method](Formation Control.jpg)
