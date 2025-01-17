@@ -43,6 +43,14 @@ Finally, we present the evolution of both Actor & Critic training weights of SV 
 
 It should be noted that we only show the results collected from SV 4 because the results of each SV are similar to those of other SVs. 
 
+
+# Step-by-step guidance
+- FIRST, all the m files and simulink files are in MATLAB R2023a version. Make sure you have at least the R2023a version for the best performance. 
+- Run AISMC simulation, remember to change the direction in the "save as txt file" section to your desired direction.
+- Run FXESO simulation, also remember to change the save-data direction
+- To run Actor-Critic simulation, run Parameters.m. Then, to have the data in txt file, run convertData2txt.m.
+- Now, run drawGraph.m to have graph.
+
 # Contact
 Feel free to contact me via [hoanganhlyk26@gmail.com](mailto:hoanganhlyk26@gmail.com) if you need anything related to this repo.
 
