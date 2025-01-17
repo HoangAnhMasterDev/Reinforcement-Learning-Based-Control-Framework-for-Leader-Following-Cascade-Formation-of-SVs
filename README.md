@@ -44,7 +44,7 @@ Finally, we present the evolution of both Actor & Critic training weights of SV 
 It should be noted that we only show the results collected from SV 4 because the results of each SV are similar to those of other SVs. 
 
 # Contact
-Feel free to contact me via [hoanganhlyk26@gmail.com](mailto:hoanganhlyk26@gmail.com)
+Feel free to contact me via [hoanganhlyk26@gmail.com](mailto:hoanganhlyk26@gmail.com) if you need anything related to this repo.
 
 
 
