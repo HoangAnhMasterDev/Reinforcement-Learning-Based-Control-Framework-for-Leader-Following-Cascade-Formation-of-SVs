@@ -5,4 +5,5 @@ This simulation is designed to verify the effectiveness of our proposed method "
 adaptive integral sliding mode control and disturbance observer](https://www.sciencedirect.com/science/article/abs/pii/S0019057818305421)
 
 # Method 
-![Method]([Formation Control.jpg](https://imgur.com/Ch99wa9))
+<img src="[link_anh_cua_ban](https://imgur.com/Ch99wa9)">
+
