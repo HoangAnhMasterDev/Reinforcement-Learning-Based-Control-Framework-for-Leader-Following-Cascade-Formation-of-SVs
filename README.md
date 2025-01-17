@@ -5,6 +5,14 @@ This simulation is designed to verify the effectiveness of our proposed method "
 adaptive integral sliding mode control and disturbance observer](https://www.sciencedirect.com/science/article/abs/pii/S0019057818305421)
 
 # Method 
+This is a cascade control scheme with two loops:
+- The outer loop is the high-level trajectory generation, which generates the trajectory reference for the inner loop to achieve the target formation.
+- The inner loop is the low-level RL-based optimal controller, which minimizes the performance index. 
 ![Control strategy diagram](https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/Control%20strategy.jpg?raw=true)
+
+# Result
+![targetFormation](Images/Fig3_FormationTrajectory-cropped.pdf)
+
+
 
 
