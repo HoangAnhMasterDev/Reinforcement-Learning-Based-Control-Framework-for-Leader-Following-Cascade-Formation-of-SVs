@@ -14,7 +14,9 @@ This is a cascade control scheme with two loops:
 # Result
 To begin with, we have the trajectory of all five SVs achieving the target formation. The picture presents snapshots of the simulation at different time instants.
 
+<div style="text-align: center;">
 <img src="https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/FormationTrajectory.jpg?raw=true" alt="Description" width="700" height="650">
+</div>
 
 Subsequently, the following pictures depict the comparison of the control input in the x-axis, y-axis, and yaw angle of SV 4, from three different control schemes:
 
