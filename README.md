@@ -11,7 +11,7 @@ This is a cascade control scheme with two loops:
   
 ![Control strategy diagram](https://github.com/HoangAnhMasterDev/Reinforcement-Learning-Based-Control-Framework-for-Leader-Following-Cascade-Formation-of-SVs/blob/main/Images/Control%20strategy.jpg?raw=true)
 
-# Result
+# Result and Comparison
 To begin with, we have the trajectory of all five SVs achieving the target formation. The picture presents snapshots of the simulation at different time instants.
 
 <div style="text-align: center;">
@@ -43,6 +43,8 @@ Finally, we present the evolution of both Actor & Critic training weights of SV 
 
 It should be noted that we only show the results collected from SV 4 because the results of each SV are similar to those of other SVs. 
 
+# Contact
+Feel free to contact me via [my email](hoanganhlyk26@gmail.com) 
 
 
 
